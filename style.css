@@ -1,0 +1,50 @@
+h1 {
+    text-align:center;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size:35px;
+    color:white;
+}
+h2 {
+    text-align:center;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size:30px;
+    color:darkolivegreen;
+}
+#IMAGE{
+    border-radius:45%;
+    margin-bottom:30px;
+    margin-top:80px;
+    margin-left:450px;
+    margin-right:100px;
+    width:500px;
+}
+p {
+ text-align:center;
+ font-size:35px;
+ padding:50px;
+}
+body {
+    background:linear-gradient(#c4c276 10%,#748499 100%);
+}
+.menu{
+    list-style:none;
+    font-family:sans-serif;
+    position:absolute;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    
+}
+.links{
+    float:left;
+    color:whitesmoke;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:10px;
+    padding-left:10px;
+    font-size:22px;
+   
+}
+.links:hover{
+    background-color:darkolivegreen;
+}
